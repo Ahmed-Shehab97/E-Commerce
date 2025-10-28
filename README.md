@@ -1,6 +1,6 @@
 ## Live Demo
 
-[View Project](https://ahmed-shehab97.github.io/E-Commerce/)
+[View Project](https://ahmed-shehab97.github.io/)
 
 # Getting Started with Create React App
 

@@ -7,7 +7,6 @@ const FooterContainer = styled.footer`
   color: #ccc;
   text-align: center;
   padding: 40px 0 25px;
-  margin-top: 60px;
   font-size: 0.95rem;
   position: relative; //
   overflow: hidden; //

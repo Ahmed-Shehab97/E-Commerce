@@ -18,7 +18,7 @@ const NavbarContainer = styled.header`
   left: 0;
   right: 0;
   overflow-x: hidden;
-  width: 1211px;
+
   max-width: 100%;
 `;
 

@@ -15,7 +15,6 @@ const HeroSection = styled.section`
   align-items: center;
   text-align: center;
   padding: 0 20px;
-  width: 1222px;
   backdrop-filter: blur(4px);
 `;
 const HeroTitle = styled.h1`
